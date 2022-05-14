@@ -32,7 +32,7 @@ Install `nltk`:
 pip install nltk
  ```
 
-If you get an error during the first run, you also need to install `nltk.tokenize.punkt`:
+If you get an error in the first run, you need to install `nltk.tokenize.punkt`:
 Run this once in your terminal:
  ```console
 $ python
